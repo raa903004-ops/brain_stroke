@@ -1,0 +1,14 @@
+streamlit
+torch
+monai
+numpy
+nibabel
+scipy
+matplotlib
+pydicom
+SimpleITK
+pandas
+Pillow
+requests
+huggingface_hub
+truststore
